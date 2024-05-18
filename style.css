@@ -1,0 +1,110 @@
+body
+   {
+    margin:0px 0px;
+	}
+
+.logo
+   {  
+      font-size: 3rem;
+   }
+   
+.navbar-expand-lg .navbar-nav .nav-link {
+   font-size: 1.1rem !important;
+    padding-right: .5rem !important;
+    padding-left: 4.5rem !important;
+}
+
+.mainContent
+   {
+      width:100%; 
+      background-image:url(assets/banner.jpg); 
+      color:#FFF; 
+      background-size:100% 100%;
+   }
+
+.container h2{
+   margin-top: 100px;
+}  
+
+.btnBuy
+   {
+      width:180px; 
+      height:55px; 
+      font-size:15px; 
+      margin-top:40px;
+      margin-bottom:110px;
+   }
+   
+.about
+   {
+      
+      justify-content: space-around !important;
+      align-items: center;
+      text-align: end;
+   }
+
+.aboutSecOne img
+   {
+      width:370px; 
+      height:400px; 
+      margin-top:80px; 
+      margin-bottom: 80px;
+   }
+
+.aboutSecTwo
+   {
+      line-height: 40px;
+   }
+
+.aboutSecTwo h1
+{
+   text-decoration: underline;
+   color:#CCC;
+   font-size: 3.3rem;
+   margin-top: 60px;
+}
+
+.brandName ,.contNam
+{
+   text-decoration: underline;
+   color:#CCC;
+   font-size: 3.3rem;
+   line-height: 40px;
+   margin-top: 20px;
+   margin-bottom: 50px;
+}
+
+
+.cardImg{
+   width: 110px !important; 
+   height: 230px !important;
+   align-self: center;
+   margin-top: 30px;
+}
+
+.footer
+   { 
+      color:#FFF;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+   }
+
+.footer-content{
+   display: -ms-inline-grid;
+   align-items: center;
+   justify-content: center;
+   align-self: center;
+}
+
+.socialIcons
+   {
+      font-size: 1.6rem;
+      padding-left: 1.1rem;
+      color: white;
+      text-decoration: none;
+   }
+a{
+   text-decoration: none;
+   color: white;
+}
